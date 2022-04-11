@@ -3,7 +3,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/13950516/162672483-4d953e53-2d6b-49d6-81ba-e7daa4a54351.png" width="40" height="40" /> &nbsp; Problem Statement:
 
-The objective of this project is to build a Machine Learning model for the prediction of housing prices based on pattern extracted from our USA_Housing dataset which contains data about USA housing sales provided by Kaggle. This dataset contains features like number of bedrooms, number of bathrooms, sqft, year built, year renovated, condition, zipcode and the target variable will be price. We will use various visualization methods to analyze the correlation of each feature as part of EDA. Descriptive analysis and quantitative analysis will use subsets of it depending on models. This project consists of two phases: - Phase I: Focuses on data cleaning, exploration and preprocessing. - Phase II : Machine Learning model building, validation and prediction.
+The objective of this project is to build a Machine Learning model for the prediction of housing prices based on pattern extracted from our USA_Housing dataset which contains data about USA housing sales provided by Kaggle. This dataset contains features like number of bedrooms, number of bathrooms, sqft, year built, year renovated, condition, zipcode and the target variable will be price. We will use various visualization methods to analyze the correlation of each feature as part of EDA. Descriptive analysis and quantitative analysis will use subsets of it depending on models. This project consists of two phases: - 
+- Phase I: Focuses on data cleaning, exploration and preprocessing.
+- Phase II : Machine Learning model building, validation and prediction.
 
 ### <img src="https://user-images.githubusercontent.com/13950516/162672846-869bf047-63a7-489f-9b33-4f4a3beab1b2.png" width="40" height="40" /> &nbsp; Dataset
 
